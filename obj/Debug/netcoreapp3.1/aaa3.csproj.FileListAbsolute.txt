@@ -1,0 +1,13 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\bin\Debug\netcoreapp3.1\aaa3.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\bin\Debug\netcoreapp3.1\aaa3.deps.json
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\bin\Debug\netcoreapp3.1\aaa3.runtimeconfig.json
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\bin\Debug\netcoreapp3.1\aaa3.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\bin\Debug\netcoreapp3.1\aaa3.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\bin\Debug\netcoreapp3.1\aaa3.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion\aaa3\obj\Debug\netcoreapp3.1\aaa3.genruntimeconfig.cache
